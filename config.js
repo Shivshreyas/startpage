@@ -40,7 +40,7 @@ var data = {
     image_width: "300px",
     // Image source: you can use local files, or a link
     // Ex.: image_source: "/img/kanji.jpg"
-    image_source: "./guts_dp.jpg",
+    image_source: "https://raw.githubusercontent.com/Shivshreyas/startpage/main/img/guts_dp.jpg",
 
     // -------------------------------------------------
     // Enable/disable site icons
