@@ -13,34 +13,34 @@ var data = {
     // Font size of the greeting
     greeting_fontsize: "40px",
     // Foreground color of the greeting
-    greeting_fgcolor: "#79acf3",
+    greeting_fgcolor: "#E5C246",
 
     // -------------------------------------------------
     // Clock config
 
     // Enable/disable clock
-    clock: true,
+    clock: false,
     // Foreground color of the clock
-    clock_fgcolor: "#79acf3",
+    clock_fgcolor: "#E5C246",
     // Font size of the clock
     clock_fontsize: "20px",
-
+    
     // -------------------------------------------------
     // Change image proprieties from here
 
     // Border radius: set it to 50% to create a circle
-    image_radius: "20px",
+    image_radius: "15px",
     // Border for the image
-    image_border: "0px",
+    image_border: "2px",
     // Color of the border
-    image_bordercolor: "#79acf3",
+    image_bordercolor: "#E5C246",
     // Filters for the image.
     image_filter: "grayscale(56%) brightness(60%)",
     // Width/height for the image
     image_width: "300px",
     // Image source: you can use local files, or a link
     // Ex.: image_source: "/img/kanji.jpg"
-    image_source: "https://raw.githubusercontent.com/Alededorigo/Kanji/main/img/kanji.jpg",
+    image_source: "./guts_dp.jpg",
 
     // -------------------------------------------------
     // Enable/disable site icons
@@ -49,12 +49,12 @@ var data = {
 
     // -------------------------------------------------
     // Page title
-    title: "ここから始める",
+    title: "ᴄʜᴀᴅ",
 
     // -------------------------------------------------
     // Change search bar proprietis from here
     // Search bar placeholder
-    search_placeholder: "Search here",
+    search_placeholder: "Google?",
     // Search engine
     // Possible choices: (case sensitive)
     // google
