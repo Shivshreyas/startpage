@@ -2,18 +2,8 @@
   <img src="favicon.ico">
 </p>
 
-<h1 align="center"><strong>startpage</strong>
+<h1 align="center"><strong> BERSERK startpage</strong>
 
-<p align="center">
-  <a href="https://github.com/Alededorigo/startpage/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/alededorigo/kanji?color=%23cd58f4&style=flat">
-  </a>
-  <a href="https://github.com/Alededorigo/startpage/releases">
-    <img src="https://img.shields.io/github/v/release/alededorigo/kanji?color=ee4f84&include_prereleases&style=flat">
-  </a>
-  <a href="https://github.com/Alededorigo/startpage/commits/main">
-    <img src="https://img.shields.io/github/last-commit/alededorigo/kanji?color=%231ce590&style=flat">
-  </a>
 </p>
 </h1>
 
@@ -127,7 +117,7 @@
 | `ctrl + m` | Mode - switch between light and dark mode |
 | `/`        | Search - focus the search box             |
 
-## Credits:
+## Credits: (Alededorigo)
 
 - [Font for greetings](https://www.1001fonts.com/electroharmonix-font.html)
 - [Image on left](https://wallpapercave.com/mt-fuji-wallpaper)
