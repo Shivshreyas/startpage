@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="favicon.ico">
+  <img src="atom_icon.ico">
 </p>
 
 <h1 align="center"><strong> BERSERK startpage</strong>
@@ -9,15 +9,16 @@
 
 <br />
 
-# **A startpage for the browser**
+# **A Berserk inspired startpage for the browser**
 
 ## Release v3.1 <img alt="" align="right" src="https://img.shields.io/github/repo-size/alededorigo/kanji?color=%2358d0f4&style=flat"/>
 
 <a href="https://github.com/Alededorigo/Kanji/releases/tag/3.1">
-  <img style="border-radius: 6px" src="https://res.cloudinary.com/adwebsite/image/upload/v1622912733/screenshot.png" alt="preview" align="right" width="400px"/>
+  <img style="border-radius: 6px" src="https://raw.githubusercontent.com/Shivshreyas/startpage/main/img/Page-ss.png" alt="preview" align="right" width="600px"/>
 </a>
 
-[**Changelog**](https://github.com/Alededorigo/startpage/blob/main/changelog.md) <kbd>v3.1</kbd>:
+
+[**Changelog** (maintained by Alededorigo)](https://github.com/Alededorigo/startpage/blob/main/changelog.md) <kbd>v3.1</kbd>:
 
 - [[added](https://github.com/Alededorigo/startpage/commit/23e37f84a1d4cc6f55be543789ffb0801ad145f2)] Chrome theme-color meta tag
 - [added] `package.sh` for extensions
@@ -29,8 +30,7 @@
 - [fixed] font issues
 - [[fixed](https://github.com/Alededorigo/startpage/commit/e0c797d3199b7ad878bc7585cc06ada79cb1f8de)] write `/` in input box after focused
 
-<br />
-<br />
+
 <br />
 <br />
 <br />
@@ -40,7 +40,8 @@
 <br />
 <br />
 
-# [🚀️ Demo on Github Pages](https://alededorigo.github.io/startpage/)
+
+# [🚀️ Demo on Github Pages](https://shivshreyas.github.io/startpage/)
 
 <br />
 <br />
@@ -120,4 +121,4 @@
 ## Credits: (Alededorigo)
 
 - [Font for greetings](https://www.1001fonts.com/electroharmonix-font.html)
-- [Image on left](https://wallpapercave.com/mt-fuji-wallpaper)
+- [Image on left](https://raw.githubusercontent.com/Shivshreyas/startpage/main/img/guts_dp.jpg)
