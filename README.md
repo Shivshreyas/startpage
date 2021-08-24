@@ -14,7 +14,7 @@
 ## Release v3.1 <img alt="" align="right" src="https://img.shields.io/github/repo-size/alededorigo/kanji?color=%2358d0f4&style=flat"/>
 
 <a href="https://github.com/Alededorigo/Kanji/releases/tag/3.1">
-  <img style="border-radius: 6px" src="https://raw.githubusercontent.com/Shivshreyas/startpage/main/img/Page-ss.png" alt="preview" align="right" width="600px"/>
+  <img style="border-radius: 6px" src="https://raw.githubusercontent.com/Shivshreyas/startpage/main/img/Page-ss.png" alt="preview" align="right" width="500px"/>
 </a>
 
 
